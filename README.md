@@ -34,12 +34,12 @@ I make stuff :P
 ---
 
 ## 📊 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=flameydev&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 👀 Visitors
-![Visitors](https://komarev.com/ghpvc/?username=<your-username>&color=green)
+![Visitors](https://komarev.com/ghpvc/?username=flameydev&color=green)
 
 ---
 
