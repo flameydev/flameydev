@@ -42,14 +42,21 @@ I make stuff :P
 ![Stats](https://github-readme-stats.vercel.app/api?username=flameydev&show_icons=true&theme=tokyonight)
 
 It's probably not very interesting as I just started :P
+
 ---
 
 ## 👀 Visitors
 ![Visitors](https://komarev.com/ghpvc/?username=flameydev&color=green)
 
 How many people decided they wanna look at a duck program stuff?
+
 ---
 
+## 📱 My Socials
+- 💬 Discord: @meflamey
+- 📺 YouTube: @FireBloxPlaysRBLX (pretty inactive but whatever)
+
+---
 ## 💬 Note
 I'm still learning, so my projects might not be perfect, but I'm improving every day! 🚀
 
