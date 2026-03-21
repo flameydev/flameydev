@@ -21,7 +21,7 @@ I make stuff :P
 ---
 
 ## 🎯 My Projects
-- 🎲 Secret Project – a game about advertising. collab with my friend!
+- 🎲 Dock - a Luau library for Roblox, aiming to improve on UserInputService (https://www.github.com/flameydev/dock)
 - ⚡ Vending Shenanigans – funny game about vending machines!
 
 ---
