@@ -21,7 +21,7 @@ I make stuff :P
 ---
 
 ## 🎯 My Projects
-- 🎲 Dock - a Luau library for Roblox, aiming to improve on UserInputService [Dock Repo](https://www.github.com/flameydev/dock)
+- 🎲 [Dock](https://www.github.com/flameydev/dock) - a Luau library for Roblox, aiming to improve on UserInputService
 - ⚡ Vending Shenanigans – funny game about vending machines!
 
 ---
