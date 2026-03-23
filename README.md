@@ -16,7 +16,7 @@ I make stuff :P
 
 ## 🛠️ What I Use
 - 🎮 Game Dev: Roblox Studio
-- 💻 Languages: Lua, Python (intermediate), and HTML (beginner)
+- 💻 Languages: ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=luau&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-
 - 🧰 Tools: VS Code, GitHub
 
 ---
