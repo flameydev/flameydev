@@ -47,7 +47,7 @@ It's probably not very interesting as I just started :P
 ---
 
 ## 👀 Visitors
-![Visitors](https://komarev.com/ghpvc/?username=flameydev&color=green)
+![Visitors](https://komarev.com/ghpvc/?username=flameydev&color=orange)
 
 How many people decided they wanna look at a duck program stuff?
 
