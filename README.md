@@ -40,7 +40,11 @@ I make stuff :P
 ---
 
 ## 📊 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=flameydev&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flameydev&show_icons=true&theme=radical&hide_border=true" alt="meflamey's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameydev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 It's probably not very interesting as I just started :P
 
