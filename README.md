@@ -1,5 +1,10 @@
 # 👋 Hey! I'm meflamey
-I make stuff :P
+Welcome to my profile README!
+I make stuff, this README is just an abomination of random stuff from other profile READMEs :P
+
+[![YouTube](https://img.shields.io/badge/FireBlox-ff0000?logo=youtube)](https://www.youtube.com/@FireBloxPlaysRBLX)
+[![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=🎒+Class+7+Student;🎮+Intermediate+Game+Dev;💻+Learning+to+Code" alt="Typing SVG from brother" />
   
