@@ -1,6 +1,6 @@
 # 👋 Hey! I'm meflamey
 Welcome to my profile README!
-I make stuff, this README is just an abomination of random stuff from other profile READMEs :P
+I make stuff! :P
 
 [![YouTube](https://img.shields.io/badge/FireBlox-ff0000?logo=youtube)](https://www.youtube.com/@FireBloxPlaysRBLX)
 [![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
