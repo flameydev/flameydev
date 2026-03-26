@@ -6,16 +6,14 @@ I make stuff! :P
 [![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=🎒+Class+7+Student;🎮+Intermediate+Game+Dev;💻+Learning+to+Code" alt="Typing SVG from brother" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=🎒+Student;🎮+Intermediate+Game+Dev;💻+Learning+to+Code" alt="Typing SVG from brother" />
   
 ---
 
 ## 🧠 About Me
-- 📚 I study in Class 7
 - 🎮 I like making games (especially on Roblox!)
 - 💡 I enjoy trying out new ideas and learning coding
-- 🚀 Currently working on: A game about advertising
-- 🌱 Currently learning: Just trying to get better at Luau!
+- 🚀 Currently working on: Some cool projects!
 
 ---
 
