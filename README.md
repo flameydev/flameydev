@@ -2,11 +2,10 @@
 Welcome to my profile README!
 I make stuff! :P
 
-[![YouTube](https://img.shields.io/badge/FireBlox-ff0000?logo=youtube)](https://www.youtube.com/@FireBloxPlaysRBLX)
 [![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=🎒+Student;🎮+Intermediate+Game+Dev;💻+Learning+to+Code" alt="Typing SVG from brother" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=🎒+Learning+Student;🎮+Intermediate+Game+Dev;💻+Learning+to+Code" alt="Typing SVG from brother" />
   
 ---
 
@@ -37,7 +36,6 @@ I make stuff! :P
 
 ## 🧐 Facts about me
 - 🎒 I am a contributor for Satchel
-- 🎂 I started making games when I was 11
 ---
 
 ## 📊 My GitHub Stats
@@ -47,20 +45,18 @@ I make stuff! :P
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameydev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-It's probably not very interesting as I just started :P
+I can't figure out how to open a pull request :(
 
 ---
 
 ## 👀 Visitors
 ![Visitors](https://komarev.com/ghpvc/?username=flameydev&color=orange)
 
-How many people decided they wanna look at a duck program stuff?
-
+I found a glitch for this HEHEHE :)
 ---
 
 ## 📱 My Socials
 - 💬 Discord: @meflamey
-- 📺 YouTube: @FireBloxPlaysRBLX (pretty inactive but whatever)
 
 ---
 ## 💬 Note
