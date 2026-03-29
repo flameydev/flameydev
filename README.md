@@ -45,7 +45,7 @@ I make stuff! :P
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameydev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-I can't figure out how to open a pull request :(
+why is it broken now?
 
 ---
 
