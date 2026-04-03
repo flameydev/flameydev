@@ -52,7 +52,8 @@ why is it broken now?
 ## 👀 Visitors
 ![Visitors](https://komarev.com/ghpvc/?username=flameydev&color=orange)
 
-I found a glitch for this HEHEHE :)
+numbers go up is cool :)
+
 ---
 
 ## 📱 My Socials
