@@ -56,7 +56,7 @@ I found a glitch for this HEHEHE :)
 ---
 
 ## 📱 My Socials
-- 💬 Discord: @meflamey
+- 💬 Discord: @meflamey.dev (new account)
 
 ---
 ## 💬 Note
