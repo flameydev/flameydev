@@ -3,7 +3,7 @@
 [![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
 
 <p align "center">
-<img src="assets/meflamey.png" width = 200% alt = "meflamey Banner">
+<img src="assets/meflamey.png" width = 100% alt = "meflamey Banner">
 </p>
 
 ---
