@@ -1,4 +1,4 @@
-# 👋 Hey! I'm meflamey!~
+# 👋 Hey! I'm meflamey!
 
 [![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
 
@@ -20,7 +20,7 @@
 - 🖱️ [Dock](https://www.github.com/flameydev/dock): An Input handler for Roblox.
 - 🥽 QuickWeld: A plugin to quickly weld parts together in Studio. (In development)
 
-### 🎮 A handful of Roblox games:~
+### 🎮 A handful of Roblox games:
 
 - 💵 Vending Shenanigans
 - 💀 That's pretty much it
