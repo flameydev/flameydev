@@ -1,49 +1,28 @@
-# 👋 Hey! I'm meflamey
-Welcome to my profile README!
-I make stuff! :P
-
+# 👋 Hey! I'm meflamey!
 [![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=🎒+Learning+Student;🎮+Intermediate+Game+Dev;💻+Learning+to+Code" alt="Typing SVG" />
-  
+## 🤔 About Me
+- 💻 Learning Luau to make Roblox games, plugins, and other awesome stuff!
+- 📚 Studying Hard or Hardly Studying? 😆
+- 🎨 Degree in MS Paint, as you can tell by my beautiful logo designs.
+- 🐥 I have no idea what I'm doing.
+
+## 📁 Projects I've worked on
+- 🖱️ [Dock](https://www.github.com/flameydev/dock): An Input handler for Roblox.
+- 🥽 QuickWeld: A plugin to quickly weld parts together in Studio. (In development)
+### 🎮 A handful of Roblox games:
+  - 💵 Vending Shenanigans
+  - 💀 That's pretty much it
+
+## 🏆 My Achievements
+- 🎒 Contributed to [Satchel](https://www.github.com/ryanlua/satchel), a backpack system for Roblox.
+- ⭐ Accumulated over 1,000 visits across [my Roblox games](https://www.roblox.com/users/3980256847/profile#!/creations)!
+
+## 🚀 Upcoming Projects
+- 🔒 AssetGuard: A Plugin to ensure safety when inserting things from the Toolbox.
+
+## 💬 Get in Touch
+- 📱 Discord: @meflamey.dev
 ---
 
-## 🧠 About Me
-- 🎮 I like making games (especially on Roblox!)
-- 💡 I enjoy trying out new ideas and learning coding
-
----
-
-## 🛠️ What I Use
-- 🎮 Game Dev: ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
-- 💻 Languages: ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=luau&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- 🧰 Tools: ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
-
-## 🎯 Featured Projects
-- 🖥️ [Dock](https://www.github.com/flameydev/dock) - a Luau library for Roblox, aiming to improve on UserInputService
-
----
-
-## 🎉 Fun Stuff
-- 🍗 Favourite food: Biriyani
-- 🍫 Favourite snack: Cookies & Cream chocolate
-- 🎮 Favourite games: Roblox, Geometry Dash, Minecraft
-- 💻 Favourite language: Luau
----
-
-## 🏆 Achievements
-- 🎒 Contributor for [Satchel](https://www.github.com/ryanlua/satchel), the modern backpack system for Roblox.
-- ⭐ 1,000+ Visits across my Roblox games.
----
-
-## 📱 My Socials
-- 💬 Discord: @meflamey.dev (new account)
-
----
-## 💬 Note
-I'm still learning, so my projects might not be perfect, but I'm improving every day! 🚀
-
-![EpikEpikDuckGIF](https://github.com/user-attachments/assets/43bce3bf-8e88-41df-89ce-d4abc6e9358b)
-
+And that's about it! Thanks for reading about me, have a great day! ❤️
