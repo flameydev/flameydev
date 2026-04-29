@@ -36,7 +36,7 @@
 
 ## 🚀 Upcoming Projects
 
-- 🔒 AssetGuard: A Plugin to scan assets and flag malicious scripts, or other instances.
+- 🔒 Warden: A Plugin to scan assets and flag malicious scripts, or other instances.
 
 ## 💬 Get in Touch
 
