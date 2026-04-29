@@ -1,8 +1,7 @@
 # 👋 Hey! I'm meflamey!
 ### Luau Programmer | Plugin Builder | Active Learner
-![Profile Views](https://komarev.com/ghpvc/?username=flameydev&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/flameydev?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/flameydev?affiliations=OWNER&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/flameydev?label=Followers)
+[![GitHub Stars](https://img.shields.io/github/stars/flameydev?affiliations=OWNER)]
 [![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
 
 <p align "center">
