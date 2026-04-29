@@ -1,8 +1,10 @@
 # 👋 Hey! I'm meflamey!
 ### Luau Programmer | Plugin Builder | Active Learner
-![GitHub Followers](https://img.shields.io/github/followers/flameydev?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/flameydev?affiliations=OWNER)
 [![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
+
+![GitHub Followers](https://img.shields.io/github/followers/flameydev?label=Followers)
+
+![GitHub Stars](https://img.shields.io/github/stars/flameydev?affiliations=OWNER)
 
 <p align "center">
 <img src="assets/meflamey.png" width = 100% alt = "meflamey Banner">
