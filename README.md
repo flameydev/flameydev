@@ -1,10 +1,15 @@
 # 👋 Hey! I'm meflamey!
 ### Luau Programmer | Plugin Builder | Active Learner
-[![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox)](https://www.roblox.com/users/3980256847)
 
-![GitHub Followers](https://img.shields.io/github/followers/flameydev?label=Followers)
+---
 
-![GitHub Stars](https://img.shields.io/github/stars/flameydev?affiliations=OWNER)
+""Roblox" (https://img.shields.io/badge/meflamey-335fff?style=for-the-badge&logo=roblox&logoColor=white)" (https://www.roblox.com/users/3980256847)
+""YouTube" (https://img.shields.io/badge/@FireBloxPlaysRBLX-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" (https://www.youtube.com/@FireBloxPlaysRBLX)
+""Discord" (https://img.shields.io/badge/meflamey.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)" (#)
+
+""Followers" (https://img.shields.io/github/followers/flameydev?style=for-the-badge&color=335fff&label=Followers&logo=github&logoColor=white)" (https://github.com/flameydev)
+""Stars" (https://img.shields.io/github/stars/flameydev?style=for-the-badge&color=335fff&label=Stars&logo=github&logoColor=white)" (https://github.com/flameydev)
+""Repos" (https://img.shields.io/badge/Repos-flameydev-335fff?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/flameydev?tab=repositories)
 
 <p align "center">
 <img src="assets/meflamey.png" width = 100% alt = "meflamey Banner">
