@@ -4,7 +4,7 @@
 ---
 
 [![Roblox](https://img.shields.io/badge/meflamey-335fff?logo=roblox&logoColor=white)](https://www.roblox.com/users/3980256847)
-[![YouTube](https://img.shields.io/badge/@FireBloxPlaysRBLX-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@FireBloxPlaysRBLX)
+[![YouTube](https://img.shields.io/badge/meflamey-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@FireBloxPlaysRBLX)
 [![Discord](https://img.shields.io/badge/meflamey.dev-5865F2?logo=discord&logoColor=white)](#)
 
 <p align "center">
