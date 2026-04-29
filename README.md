@@ -44,4 +44,4 @@
 
 ---
 
-❤️ Thanks for reading, feel free to check out some of the stuff I made or contributed to. Have a great rest of your day! 🐣
+-# ❤️ Thanks for reading, feel free to check out some of the stuff I made or contributed to. Have a great rest of your day! 🐣
