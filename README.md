@@ -32,7 +32,8 @@
 ## 🏆 My Achievements
 
 - 🎒 Contributed to [Satchel](https://www.github.com/ryanlua/satchel), a backpack system for Roblox.
-- ⭐ reached over 1,000 visits across [my Roblox games](https://www.roblox.com/users/3980256847/profile#!/creations)!
+- 💪 Contributed to [RoPrime](https://www.githun.com/walway/RoPrime) with translations
+- ⭐ Reached over 1,000 visits across [my Roblox games](https://www.roblox.com/users/3980256847/profile#!/creations)!
 
 ## 🚀 Upcoming Projects
 
