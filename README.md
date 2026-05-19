@@ -1,5 +1,4 @@
 # 👋 Hey! I'm meflamey!
-### Luau Programmer | Plugin Builder | Active Learner
 
 ---
 
@@ -17,27 +16,24 @@
 
 ## 🤔 About Me
 
-- 💻 Learning Luau to make Roblox games, plugins, and systems.
+- 💻 Learning to Code
 - 📚 Studying Hard or Hardly Studying? 😆
 - 🎨 Degree in MS Paint, as you can tell by my beautiful banner.
+- 🐍🌙 My favourite languages are Luau and Python
 - 🐥 I have no idea what I'm doing. Eh, I'll probably figure it out.
 
 ## 📁 Projects I've worked on
 
 - 🖱️ [Dock](https://www.github.com/flameydev/dock): A fast and clean input handler for Roblox.
 - 🥽 QuickWeld (In Development): A plugin to quickly weld parts together in Studio with minimal setup.
-
+- 🥭 [MangoBot](https://www.github.com/flameydev/MangoBot): A utility Discord bot that also serves as a template for bots.
 - 🎮 A handful of Roblox games
 
 ## 🏆 My Achievements
 
 - 🎒 Contributed to [Satchel](https://www.github.com/ryanlua/satchel), a backpack system for Roblox.
-- 💪 Contributed to [RoPrime](https://www.github.com/walway/RoPrime) with translations
+- 💪 Contributed to [RoPrime](https://www.github.com/walway/RoPrime) with translations.
 - ⭐ Reached over 1,000 visits across [my Roblox games](https://www.roblox.com/users/3980256847/profile#!/creations)!
-
-## 🚀 Upcoming Projects
-
-- 🔒 Warden: A Plugin to scan assets and flag malicious scripts, or other instances.
 
 ## 💬 Get in Touch
 
