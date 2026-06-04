@@ -47,3 +47,5 @@ A utility Discord bot that also serves as a template for creating your own bots.
 ---
 
 ❤️ Thanks for stopping by! Feel free to check out my projects, and have an awesome day.
+
+-# note: if you follow me for no reason or you spam follow accounts, you will be blocked :(
