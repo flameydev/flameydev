@@ -22,7 +22,7 @@
 
 ## 📂 Projects
 
-### 📖 First Plugins
+### 📖 [First Plugins](https://github.com/flameydev/first-plugins)
 
 A beginner-friendly guide written by me to help developers create their first Roblox Studio plugin.
 
@@ -30,14 +30,14 @@ A beginner-friendly guide written by me to help developers create their first Ro
 
 A Roblox Studio plugin that makes welding parts together quick and easy.
 
-### 🥭 MangoBot
+### 🥭 [MangoBot](https;//github.com/flameydev/mangobot)
 
 A utility Discord bot that also serves as a template for creating your own bots.
 
 ## ✨ Contributions & Achievements
 
-* 🎒 Contributed to **Satchel**, a backpack system for Roblox
-* 🌍 Contributed translations to **RoPrime**
+* 🎒 Contributed to [**Satchel**](https://github.com/ryanlua/satchel), a backpack system for Roblox
+* 🌍 Contributed translations to [**RoPrime**](https://github.com/walway/RoPrime)
 * ⭐ Reached over **1,000 visits** across my Roblox games
 
 ## 📬 Contact
