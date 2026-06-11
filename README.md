@@ -44,7 +44,7 @@ A utility Discord bot that also serves as a template for creating your own bots.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flameydev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=flameydev)](https://github.com/flameydev)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=flameydev&theme=dark&hide_border=false)](https://github.com/flameydev)
 
 wow, that looks so cool right 😎
 
