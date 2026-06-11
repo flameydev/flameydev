@@ -40,6 +40,12 @@ A utility Discord bot that also serves as a template for creating your own bots.
 * 🌍 Contributed translations to [**RoPrime**](https://github.com/walway/RoPrime)
 * ⭐ Reached over **1,000 visits** across my Roblox games
 
+## 🌌 Cool Dynamic Chart
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flameydev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+wow, that looks so cool right 😎
+
 ## 📬 Contact
 
 * Discord: **@meflamey.dev**
